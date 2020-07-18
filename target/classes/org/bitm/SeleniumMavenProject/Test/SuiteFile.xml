@@ -1,0 +1,8 @@
+<suite name="SeleniumOnlineProjectSuite" verbose="1">
+	<test name="LoginTest">
+		<classes>
+			<class name="org.bitm.SeleniumMavenProject.Test.LoginTest" />
+		</classes>
+	</test>
+
+</suite>
